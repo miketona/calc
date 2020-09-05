@@ -1,5 +1,7 @@
 # calc
 
+# A calculator application built using Vue JS
+
 ## Project setup
 ```
 npm install
