@@ -1,7 +1,7 @@
 # calc
 
 # A calculator application built using Vue JS
-[Vue project](http://bscacad3.buffalostate.edu/~tonam01/calculator/)
+Vue [the project](http://bscacad3.buffalostate.edu/~tonam01/calculator/)
 
 ## Project setup
 ```
